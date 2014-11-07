@@ -10,3 +10,5 @@ Lista:
 Link: [google](https://google.pl)
 
 Relatywny link [test](/test.txt)
+
+Long live pull requests!
